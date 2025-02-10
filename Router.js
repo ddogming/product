@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory} from "vue-router";
 import List from "./src/components/List.vue";
 import Cart from "./src/components/Cart.vue";
 
