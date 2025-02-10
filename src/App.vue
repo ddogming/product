@@ -70,5 +70,7 @@ const filterProducts = computed(()=>{
 </script>
 
 <style lang="scss" scoped>
-
+.app{
+  background-color: lightblue;
+}
 </style>
