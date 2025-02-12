@@ -86,7 +86,7 @@ const payment = computed(()=>{
         ul{
             img{
                 width: 200px;
-                height: 200px;
+                height: 150px;
                 border-radius: 10px;
             }
             li{
