@@ -3,7 +3,7 @@
         <h1>햄버거가게</h1>
         <div class="router-link">
             <router-link to="/">상품목록</router-link>
-            <br>
+          &nbsp
             <router-link to="/cart">장바구니</router-link>
         </div>
         <ul>
@@ -35,7 +35,11 @@ const selectedClick = (list) =>{
         padding: 2rem 5rem;
         background-color: rgb(224, 176, 42);
         .router-link{
-            margin-left: 1050px;
+            /* display: flex; */
+            margin-left: 990px;
+            margin-top: -6px;
+            padding: 5px;
+            background-color: antiquewhite;
         }
         ul{
             display: flex;
