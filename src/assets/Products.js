@@ -1,6 +1,6 @@
 export const products = [
     {id:1, name: '불고기버거', price:20000, image:'./images/1.png', category:'Best'},
-    {id:2, name: '치킨모짜렐라', price:8000, image:'./images/2.png',category:'Set'},
+    {id:2, name: '더블버거', price:8000, image:'./images/2.png',category:'Set'},
     {id:3, name: '1955버거', price:3000, image:'./images/3.png',category:'Best'},
     {id:4, name: '슈슈버거', price:5000, image:'./images/4.png',category:'Set'},
     {id:5, name: '새우버거', price:4000, image:'./images/6.png',category:'Best'},
